@@ -1,0 +1,1 @@
+/* Your device is a phone*/
